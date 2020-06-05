@@ -1,2 +1,3 @@
-# ci
-All logos, common assets and colors for SchoolSquirrel
+# SchoolSquirrel's Corporate Identity
+> All logos, common assets and colors for SchoolSquirrel
+
